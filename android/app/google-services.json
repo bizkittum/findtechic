@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131725848423",
+    "project_id": "devfindtechnic",
+    "storage_bucket": "devfindtechnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131725848423:android:0b05060d4216e52594c9c2",
+        "android_client_info": {
+          "package_name": "com.devbizkittum.devfindtechnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131725848423-2qcecoo38n5sr2mm7q318vaskrtvicn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-V03KaJoILApXCFYW2KAuydpwwFDg4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131725848423-2qcecoo38n5sr2mm7q318vaskrtvicn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
